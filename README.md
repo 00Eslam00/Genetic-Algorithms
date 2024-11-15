@@ -9,11 +9,11 @@ This Repo is for training on genetic algorithms.
 
 First line: Number of test cases (must be at least 1) 
 
-For each test case: 
+For each test case:
 • Max time limit
 • Number of tasks to be allocated
 
-For each each task: 
+For each each task:
 • task execution time
 
 ### The Used technique.
